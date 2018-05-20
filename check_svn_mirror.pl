@@ -1,4 +1,4 @@
-#!/usr/bin/perl -T
+#!/usr/bin/env perl
 #
 #  Author: Hari Sekhon
 #  Date: 2010-11-11 11:44:32 +0000 (Thu, 11 Nov 2010)

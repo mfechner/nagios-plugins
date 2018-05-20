@@ -1,4 +1,4 @@
-#!/usr/bin/perl -T
+#!/usr/bin/env perl
 # nagios: -epn
 #
 #  Author: Hari Sekhon
